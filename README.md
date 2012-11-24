@@ -17,5 +17,5 @@ php payroll.php -year=2012
 php payroll.php -file=payroll-2012.csv
 php payroll.php -file=/docs/accounting/payroll-2012.csv
 
-4. Specify both year and file name:
+4. Specify both year and file name:\n
 php payroll.php -year=2012 -file=/docs/accounting/payroll-2012.csv
