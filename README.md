@@ -7,15 +7,15 @@ Usage: php payrol.php [OPTIONS]
 
 Examples:
 
-1. Default behaviour:
+1. Default behaviour:<br />
 php payroll.php
 
-2. Specify an year, different from default (current) one:
+2. Specify an year, different from default (current) one:<br />
 php payroll.php -year=2012
 
-3. Specify file name (or path and name), different from the default one:
-php payroll.php -file=payroll-2012.csv
+3. Specify file name (or path and name), different from the default one:<br />
+php payroll.php -file=payroll-2012.csv<br />
 php payroll.php -file=/docs/accounting/payroll-2012.csv
 
-4. Specify both year and file name:\n
+4. Specify both year and file name:<br />
 php payroll.php -year=2012 -file=/docs/accounting/payroll-2012.csv
